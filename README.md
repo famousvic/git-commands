@@ -8,6 +8,7 @@ The repo contains the command for working with git
 ![alt text](assets/git%20status.png)
 
 `git add`- command is used to add changes in the working directory to the staging area. It tells Git that you want to include updates to a particular file or files in the next commit.
+![git add](assets/git-add.PNG)
 
 `git-commit`- command is used to save your changes to the local repository.
 ![git-commit](assets/git-commit.PNG)
